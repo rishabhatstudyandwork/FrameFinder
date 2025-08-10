@@ -21,7 +21,7 @@ Designed with a **vintage cinematic feel** using **Tailwind CSS** and **React**.
 ## 🚀 Quick Start
 
 ### 1️⃣ Clone the repo
-git clone https://github.com/your-username/framefinder.git
+git clone https://github.com/your-username/framefinder
 cd framefinder
 
 ### 2️⃣ Install dependencies
