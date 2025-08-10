@@ -1,5 +1,13 @@
 # 🎬 FrameFinder - Movie Discovery Platform
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![React](https://img.shields.io/badge/React-18.2.0-blue)](https://reactjs.org/)
+[![Firebase](https://img.shields.io/badge/Firebase-10.12.2-orange)](https://firebase.google.com/)
+[![Vite](https://img.shields.io/badge/Vite-4.4.5-purple)](https://vitejs.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.3.2-06B6D4?logo=tailwindcss)](https://tailwindcss.com/)
+
+![FrameFinder Screenshot](assets/screenshots/home.png)
+
 A **modern movie and TV show discovery platform** with **personalized recommendations**, **visual search**, and **Firebase-powered authentication**.  
 Designed with a **vintage cinematic feel** using **Tailwind CSS** and **React**.
 
