@@ -6,7 +6,7 @@
 [![Vite](https://img.shields.io/badge/Vite-4.4.5-purple)](https://vitejs.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.3.2-06B6D4?logo=tailwindcss)](https://tailwindcss.com/)
 
-![FrameFinder Screenshot](assets/screenshots/home.png)
+![Uploading logo.png…]()
 
 A **modern movie and TV show discovery platform** with **personalized recommendations**, **visual search**, and **Firebase-powered authentication**.  
 Designed with a **vintage cinematic feel** using **Tailwind CSS** and **React**.
