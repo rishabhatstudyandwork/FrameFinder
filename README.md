@@ -1,6 +1,6 @@
 # 🎬 FrameFinder - Movie Discovery Platform
 
-[![Visit Site](https://img.shields.io/badge/FrameFinder-Red)]([https://reactjs.org/](https://framefinderformovies.vercel.app/))
+[![Visit Site](https://img.shields.io/badge/FrameFinder-red)](https://framefinderformovies.vercel.app/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![React](https://img.shields.io/badge/React-18.2.0-blue)](https://reactjs.org/)
 [![Firebase](https://img.shields.io/badge/Firebase-10.12.2-orange)](https://firebase.google.com/)
