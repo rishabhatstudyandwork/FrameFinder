@@ -33,7 +33,7 @@ https://framefinderformovies.vercel.app
 ## 🚀 Quick Start
 
 ### 1️⃣ Clone the repo
-git clone [https://github.com/your-username/framefinder](https://github.com/rishabhatstudyandwork/FrameFinder)
+git clone [https://github.com/rishabhatstudyandwork/framefinder](https://github.com/rishabhatstudyandwork/FrameFinder)
 cd framefinder
 
 ### 2️⃣ Install dependencies
