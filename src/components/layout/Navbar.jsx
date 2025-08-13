@@ -48,15 +48,14 @@ const Navbar = () => {
           <img
             src={logo}
             alt="FrameFinder Logo"
-            className="h-18 md:h-24 w-auto object-contain flex-shrink-0"
-            style={{ maxHeight: "80px" }}
+            className="h-[70px] w-auto object-contain" // Increased height for better visibility
+            style={{ maxWidth: "200px" }} // Constrain width to prevent overflow
           />
         </Link>
 
         {/* Desktop Navigation */}
         <div className="hidden md:flex items-center space-x-8">
           <nav className="flex space-x-6">
-            
             <Link
               to="/"
               className={`transition-colors ${
