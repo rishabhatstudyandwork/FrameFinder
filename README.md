@@ -7,7 +7,7 @@
 [![Vite](https://img.shields.io/badge/Vite-4.4.5-purple)](https://vitejs.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.3.2-06B6D4?logo=tailwindcss)](https://tailwindcss.com/)
 
-<img width="1024" height="1024" alt="logo" src="https://github.com/user-attachments/assets/9ec4dc3a-a4fe-4bce-9d27-9f95afe0679f" />
+<img width="1536" height="1024" alt="generated-image" src="https://github.com/user-attachments/assets/e242e112-e8c6-404a-b792-ab1b4b7e80ff" />
 
 A **modern movie and TV show discovery platform** with **personalized recommendations**, **visual search**, and **Firebase-powered authentication**.  
 Designed with a **vintage cinematic feel** using **Tailwind CSS** and **React**.
